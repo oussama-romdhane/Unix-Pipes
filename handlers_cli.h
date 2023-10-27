@@ -9,7 +9,7 @@
 void hand_reveil(int sig) {
   // Implement your wake-up logic here.
   // For example, you can use a flag or other mechanism to handle the wake-up.
-    printf("Client Received Signal\n");
+    printf("Attente Reponse du Serveur...\n");
 
 }
 
