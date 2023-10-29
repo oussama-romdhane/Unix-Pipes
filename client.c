@@ -50,7 +50,6 @@ int main() {
       exit(1);
     }
 
-    printf("Reponse du Serveur: \n");
     for (int i = 0; i < answer.num_generated; i++) {
       printf("%d ", answer.generated_values[i]);
     }
